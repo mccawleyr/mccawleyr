@@ -1,24 +1,44 @@
 ### Hi, I'm Ryan 👋
 
-Cybersecurity specialist and homelab enthusiast — I like building things from
-the ground up, breaking them on purpose to understand them, and then
-automating whatever kept breaking by accident.
+I've been working in IT since 2009 and these days spend most of my time
+somewhere between cybersecurity, cloud infrastructure, and compliance. I
+manage a security team for an MSP/MSSP, but I'm still very much a hands-on
+engineer and probably always will be.
 
-- 🔐 Working in cybersecurity, currently chipping away at OSCP-track skills
-  in an isolated lab network of my own
-- 🛰️ Into space and following what's launching next
-- 🖥️ Running a self-hosted homelab — Docker, Traefik, Postgres, Authentik SSO,
-  the works — largely as an excuse to keep learning infrastructure hands-on
-- 📡 RSS over algorithms — I still read the actual internet
-- 🌐 Everything else about me (projects, links, socials) lives at
-  **[ryan.mccawley.me](https://ryan.mccawley.me)**
+A lot of my professional work is focused on Microsoft 365, Azure, Entra,
+Intune, Defender, GCC High, CMMC, and NIST 800-171. I enjoy the part where
+the documentation stops and you have to figure out how to actually make the
+technical requirements work in the real world.
 
-#### Tools I reach for
+Outside of work, I have a homelab that has grown well beyond anything I can
+reasonably justify. It's where I experiment with things like Docker,
+Kubernetes, Traefik, Terraform, Linux, networking, self-hosting, and
+whatever else I've decided I need to learn this week.
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+#### A few things about me
 
-<sub>Feel free to reach out via the links on my [site](https://ryan.mccawley.me) - always up for talking homelabs or security.</sub>
+- 🔐 Cybersecurity is both my career and something I genuinely enjoy
+  learning about. I'm currently working on offensive security skills in my
+  lab because I think understanding how things are broken makes me better
+  at defending them.
+- 🖥️ I would rather build something myself at least once before paying
+  someone else to run it for me.
+- 🧪 My homelab is where bad ideas become learning experiences.
+- 🛰️ I'm a space nerd and follow launches probably more closely than
+  necessary.
+- 🏕️ I'm involved in Scouting and occasionally remember that going outside
+  is an option.
+- 🌐 Projects, links, and everything else: **[ryan.mccawley.me](https://ryan.mccawley.me)**
+
+#### Things I work with
+
+Microsoft 365 · Azure · Entra ID · Intune · Defender · PowerShell ·
+Terraform · Docker · Kubernetes · Linux · Traefik · PostgreSQL · UniFi ·
+Tailscale · Git
+
+---
+
+If you're working on something interesting involving security,
+infrastructure, homelabs, or figuring out why something absolutely refuses
+to work the way the documentation says it should, feel free to reach out
+through my site.
